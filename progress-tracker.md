@@ -14,13 +14,13 @@
 - [x] 1.1. Write the research question and method at the top of `README.md`
 - [x] 1.2. Create `data/raw/`, `data/clean/`, `notebooks/`, `notes/`
 - [x] 1.3. Add `.ipynb_checkpoints/` to `.gitignore`
-- [ ] 1.4. Delete or archive the old `jupyter notebooks/` folder; commit the empty structure
+- [x] 1.4. Delete or archive the old `jupyter notebooks/` folder; commit the empty structure
 
 ## 2. Collect raw data
-- [ ] 2.1. Create `notes/data-sources.md` (table name, ID, link, download date for each file)
-- [ ] 2.2. Download StatCan police-reported crime by detailed violation (police services in Ontario) for all 8 municipalities, 2001–2021 → `data/raw/crime/`
-- [ ] 2.3. Download youth 12–17 and total population per municipality from the 2001, 2006, 2011, 2016, 2021 censuses → `data/raw/population/`
-- [ ] 2.4. Download unemployment and low-income rates per municipality, same 5 census years → `data/raw/economics/`
+- [x] 2.1. Create `notes/data-sources.md` (table name, ID, link, download date for each file)
+- [x] 2.2. Download StatCan police-reported crime by detailed violation (police services in Ontario) for all 8 municipalities, 2001–2021 → `data/raw/crime/`
+- [x] 2.3. Download youth 12–17 and total population per municipality from the 2001, 2006, 2011, 2016, 2021 censuses → `data/raw/population/`
+- [x] 2.4. Download unemployment and low-income rates per municipality, same 5 census years → `data/raw/economics/`
 - [ ] 2.5. Log every file in `data-sources.md` and commit
 
 ## 3. Clean the crime data (`01_clean_crime.ipynb`)
