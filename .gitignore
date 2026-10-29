@@ -1,5 +1,5 @@
 
-# Sectrets
+# Secrets
 .env
 secrets.txt
 config.ini
@@ -8,7 +8,13 @@ config.ini
 # Python
 
 
+
 # Jupyter Notebook
+.ipynb_checkpoints/
 
 
 # R code
+
+
+# Obsidian (personal layout files; keep vault settings)
+.obsidian/
